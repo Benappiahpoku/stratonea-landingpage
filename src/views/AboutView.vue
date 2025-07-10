@@ -6,7 +6,7 @@
       <div class="w-48 h-48 rounded-full overflow-hidden shadow-lg">
         <img
           v-if="!imageError"
-          src="/src/assets/images/benjaminprofilepicOriginal.jpg"
+          src="/benjaminprofilepic.webp"
           alt="Benjamin Appiah-Poku"
           class="w-full h-full object-cover"
           loading="lazy"

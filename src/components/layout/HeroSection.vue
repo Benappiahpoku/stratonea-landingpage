@@ -41,7 +41,7 @@
               Issue a Receipt
             </a>
             <a href="https://sales.stratonea.com" target="_blank" rel="noopener noreferrer"
-              class="inline-flex items-center justify-center px-6 py-4 bg-gray-600 hover:bg-gray-700 text-white font-semibold rounded-lg transition-colors duration-200 min-h-[3rem] shadow-md">
+              class="inline-flex items-center justify-center px-6 py-4 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-lg transition-colors duration-200 min-h-[3rem] shadow-md">
               Track Sales
             </a>
           </div>
@@ -60,12 +60,9 @@
             - Desktop: no margin-bottom, image right
             - Image: rounded corners, a little padding/margin, responsive
           -->
-          <img
-            src="/stratoneaheropic.webp"
-            alt="African entrepreneurs using mobile tools"
+          <img src="/stratoneaheropic.webp" alt="African entrepreneurs using mobile tools"
             class="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg rounded-3xl shadow-lg object-cover bg-white p-2"
-            loading="lazy"
-          />
+            loading="lazy" />
         </div>
         <!-- ===== [New Feature] END ===== -->
       </div>
