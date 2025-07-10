@@ -118,7 +118,7 @@
 
       <!-- ===== Trust Indicators ===== -->
       <div class="mt-16 text-center">
-        <p class="text-sm text-gray-500 mb-4">Trusted by businesses across Ghana</p>
+        <p class="text-sm text-gray-500 mb-4">Trusted by businesses across Africa</p>
         <div class="flex items-center justify-center gap-8 text-xs text-gray-400">
           <span class="flex items-center gap-2">
             <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
