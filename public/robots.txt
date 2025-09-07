@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Block access to sensitive areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
+# Allow crawling of main content
+Allow: /
+Allow: /about
+Allow: /contact
+
+# Sitemap location
+Sitemap: https://stratonea.com/sitemap.xml
